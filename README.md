@@ -4,7 +4,7 @@ This is a responsive music player web application built using HTML, CSS, and Jav
 
 ## Demo
 
-Check out the live demo of the Responsive Music Player:[Rsponsive Music Player]().
+Check out the live demo of the Responsive Music Player:[Rsponsive Music Player](https://rahul-r10.github.io/Code_Clause_Music_Player/).
 
 ## Features
 
@@ -35,11 +35,17 @@ Follow the steps below to get the music player up and running on your local mach
 
 ## Usage
 1.On the music player interface, you will see the current song being played and controls to play, pause, skip to the next or previous song, adjust the volume, and seek through the song.
+
 2.Click the play button to start the playback of the current song.
+
 3.Click the pause button to pause the playback.
+
 4.Use the next and previous buttons to skip to the next or previous song in the playlist.
+
 5.Adjust the volume control slider to increase or decrease the volume.
+
 6.Use the progress bar to seek to a specific time in the song.
+
 7.Enjoy listening to the random selection of songs provided.
 
 ## License
